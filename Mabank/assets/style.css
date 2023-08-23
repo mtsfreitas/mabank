@@ -1,0 +1,114 @@
+body {
+    padding-top: 90px;
+    background-color: #590392;
+}
+
+#exampleModalLabel {
+    color: white;
+}
+
+#emailText {
+    color: white;
+}
+
+#senhaText {
+    color: white;
+}
+
+.btnCadastro {
+    background-color: #590392;
+    border-color: plum;
+}
+
+.btnCadastro:hover {
+    background-color: white;
+    color: #820ad1;
+}
+
+.btnCadastro:active::after {
+    background-color: white;
+    color: #820ad1;
+}
+
+.btnEntrar {
+    background-color: #590392;
+    border-color: plum;
+}
+
+.btnEntrar:hover {
+    background-color: white;
+    color: #820ad1;
+}
+
+.btnCadastrar {
+    background-color: #590392;
+    border-color: plum;
+    color: white;
+}
+
+.btnCadastrar:hover {
+    background-color: white;
+    color: #820ad1;
+}
+
+.inicio {
+    color: white !important;
+}
+
+.logout {
+    color: white !important;
+}
+
+table {
+    margin: 30px;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    background-color: #820ad1;
+    color: white;
+}
+
+.mabanknavigation {
+    background-color: #820ad1;
+}
+
+footer {
+    color: white;
+}
+
+.genericColor {
+    color: white;
+}
+
+h2 {
+    padding-top: 30px;
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.btnVoltarPrincipal {
+    margin-left: 30px;
+}
+
+a {
+    color: aqua;
+}
